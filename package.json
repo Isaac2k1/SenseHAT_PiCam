@@ -1,0 +1,12 @@
+{
+    "name": "SenseHAT_PiCam",
+    "description": "Nice things with SenseHAT and PiCam",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_senserpi.json",
+            "credentialsFile": "flows_senserpi_cred.json"
+        }
+    }
+}
