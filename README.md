@@ -5,5 +5,7 @@ Nice things with SenseHAT and PiCam
 
 ### About
 
-This is your project's README.md file. It helps users understand what your
-project does, how to use it and anything else they may need to know.
+The SenseHAT is used to capture temperature, air pressure and humidity
+and show the actual values and trend charts. 
+
+The PiCam is connected too and shall give pictures of the surroundings.
