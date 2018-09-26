@@ -9,3 +9,5 @@ The SenseHAT is used to capture temperature, air pressure and humidity
 and show the actual values and trend charts. 
 
 The PiCam is connected too and shall give pictures of the surroundings.
+
+Now, there is a devMM branch, on the GitHUB server.
